@@ -11,7 +11,6 @@ Search (by zip/postal code and country code) for your city and select your units
 Added: Wind Speed
 
 To be made: Changing image based on type of weather<br>
-To be made: Background color selector<br>
 To be made: Additional API calls for other weather conditions
 
 # Warning!
